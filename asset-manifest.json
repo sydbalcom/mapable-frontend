@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mapable-frontend/static/css/main.1be733f6.chunk.css",
+    "main.css": "/mapable-frontend/static/css/main.b63f156a.chunk.css",
     "main.js": "/mapable-frontend/static/js/main.b5f1588b.chunk.js",
     "main.js.map": "/mapable-frontend/static/js/main.b5f1588b.chunk.js.map",
     "runtime-main.js": "/mapable-frontend/static/js/runtime-main.614ad1d9.js",
@@ -10,7 +10,7 @@
     "static/js/3.d7691331.chunk.js": "/mapable-frontend/static/js/3.d7691331.chunk.js",
     "static/js/3.d7691331.chunk.js.map": "/mapable-frontend/static/js/3.d7691331.chunk.js.map",
     "index.html": "/mapable-frontend/index.html",
-    "static/css/main.1be733f6.chunk.css.map": "/mapable-frontend/static/css/main.1be733f6.chunk.css.map",
+    "static/css/main.b63f156a.chunk.css.map": "/mapable-frontend/static/css/main.b63f156a.chunk.css.map",
     "static/js/2.5387e16b.chunk.js.LICENSE.txt": "/mapable-frontend/static/js/2.5387e16b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mapable-frontend/static/media/slogan.b34b8e78.png",
     "static/media/mapable_logo.46754ce0.png": "/mapable-frontend/static/media/mapable_logo.46754ce0.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.614ad1d9.js",
     "static/js/2.5387e16b.chunk.js",
-    "static/css/main.1be733f6.chunk.css",
+    "static/css/main.b63f156a.chunk.css",
     "static/js/main.b5f1588b.chunk.js"
   ]
 }
